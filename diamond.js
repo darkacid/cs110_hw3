@@ -32,4 +32,4 @@ const  diamond = function(diamond_size)
     }
 
 };
-diamond(0);
+diamond(5);
